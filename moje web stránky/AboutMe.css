@@ -1,0 +1,134 @@
+nav {display: flex; 
+    list-style: none; 
+    text-transform: capitalize;
+    }
+    nav li {text-decoration: none; 
+    margin: 0px 15px; 
+    letter-spacing: 3px; 
+    margin-top: 30px;
+    }
+    nav li a {text-decoration: none; 
+    text-align: center; font-size:20px;  
+    color: black; margin
+    }
+    nav p {font-size: 40px; 
+    text-align: left; 
+    margin-left: 10%; 
+    margin-right: 20%; 
+    font-weight: 500; 
+    text-transform: uppercase; 
+    margin-top: -15px;
+    }
+    .logo{font-size: 70px; 
+    color: blueviolet; 
+    letter-spacing: 3px; 
+    margin-right: 15%;
+    }
+    .firsticon{margin-top: -5px; 
+    margin-left: 300px; 
+    width: 30px; 
+    height: 30px; 
+    display: flex;
+    }
+    li img {width: 32px; 
+    height: 32px;
+    }
+    section img {width: 809px; 
+    height: 639px; 
+    display: block; 
+    align-items: end; 
+    margin-top: -150px; 
+    margin-left: 50%; 
+    opacity: 0.7;  
+    }
+    .buttons:hover {background: linear-gradient(white, white) padding-box, linear-gradient(to right, rgb(6, 95, 168), rgb(209, 11, 216)) border-box;
+    border-width: 50px;
+    border-bottom: 4px solid transparent;
+    margin-top: -100px;
+    }
+    div p b{font-size: 40px; 
+    }
+    div p {margin-left: 7%; 
+    margin-top: 18%; 
+    font-size: 40px; 
+    }
+    div p b {color: blueviolet; 
+    text-transform: uppercase; 
+    font-size: 70px; 
+    }
+    div p b:hover {border-bottom: solid 4px;
+    }
+    .text{width: 40%; 
+    height: 15%; 
+    font-size: 16px; 
+    margin-top: -50px; 
+    margin-left: 8%; 
+    margin-top: -30px;
+    }
+    .hireme{color: violet; 
+    text-decoration: none; 
+    display: flex; 
+    margin-left: 15%; 
+    border: solid 1px transparent; 
+    width: 130px; 
+    justify-content: center; 
+    font-size: 30px; 
+    text-transform: capitalize;
+    } 
+    .contact{color: violet;
+    text-decoration: none; 
+    display: flex; margin-left: 25%; 
+    border: solid 1px transparent; 
+    width: 200px; 
+    justify-content: center; 
+    font-size: 30px; 
+    text-transform: capitalize; 
+    margin-top: -35px;
+    }
+    .circle{border: solid 1px transparent;
+    border-radius: 100%; 
+    height: 600px; 
+    width: 600px; 
+    background-image: linear-gradient(to right,  rgb(6, 95, 168), rgb(209, 11, 216, 3));
+    margin-left: -300px;
+    margin-top: -150px;
+    position: relative;
+    opacity: 0.5;
+    }
+    .circle1{border: solid 1px transparent;  
+    height: 200px; width: 200px; 
+    border-radius: 100%; 
+    background-image: linear-gradient(to right,  rgb(6, 95, 168), rgb(209, 11, 216)); 
+    margin-left: 20%; 
+    margin-top: -1100px; 
+    }
+    .obdelnik{border: solid 1px transparent; 
+    height: 400px; 
+    width: 1000px; 
+    rotate: -23deg; 
+    background-image: linear-gradient(to right,  rgb(6, 95, 168), rgb(209, 11, 216));
+    margin-right: 400px;  
+    border-radius: 25px 50px 25px 50px;
+    }
+    footer {text-align: center; 
+    margin-top: 500px; 
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, rgb(6, 95, 168), rgb(209, 11, 216)) border-box;
+    border-width: 100%;
+    border-top: 4px solid transparent;
+    padding-top: 15px;
+    opacity: 0,4;
+    }
+    div li {width: 30px; 
+    height: 30px; 
+    margin-top: -87px;  
+    margin-left: 83%;
+    display: flex;
+    }
+    .social{width: 30px; 
+    height: 30px; 
+    margin-top: 54px;  
+    margin-left: 65px;
+    display: flex;
+    }
+    body {font-family: Tilt Neon, sans-serif;
+    }
